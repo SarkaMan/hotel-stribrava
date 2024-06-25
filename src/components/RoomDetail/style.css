@@ -7,9 +7,3 @@ img {
   height: auto;
   border-radius: 0.5rem;
 }
-
-.columns-2 {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1rem;
-}

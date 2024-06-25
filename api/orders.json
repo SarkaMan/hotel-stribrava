@@ -1,0 +1,15 @@
+[
+  {
+    "id": 0,
+    "od": "2024-05-11",
+    "do": "2024-05-25",
+    "pocetOsob": "6",
+    "stravovani": "Snídaně",
+    "mazlicek": true,
+    "pristylka": "",
+    "bezbarier": "",
+    "email": "sarka@gmail.com",
+    "telefon": "98765",
+    "stav": "new"
+  }
+]
